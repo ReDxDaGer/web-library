@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: "JetBrains Mono", monospace;
+    background-color: #f7f7f7;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+/* Form Styling */
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    outline: none;
+}
+
+button[type="submit"] {
+    margin-left: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    outline: none;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.filter-form {
+    display: flex;
+    align-items: center;
+}
+
+.filter-form label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.filter-form select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.filter-form button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.filter-form button:hover {
+    background-color: #0056b3;
+}
+
+/* List Styling */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Adjust the width of each column as needed */
+    gap: 20px;
+}
+
+li {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+li:hover {
+    transform: translateY(-5px);
+}
+
+/* Book Styling */
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: #ffc93c;
+    color: #fff;
+    text-align: center;
+}
+
+.img-container {
+    width: 100%;
+    height: 200px; /* Set the desired fixed height */
+    overflow: hidden;
+    position: relative;
+    border-bottom: 2px solid #ffc93c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Book Cover Styling */
+.img-container img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover; /* Make the image cover its container */
+}
+p {
+    padding: 20px;
+    color: #666;
+    line-height: 1.6;
+}
+
+.author {
+    color: #999;
+    font-style: italic;
+}
