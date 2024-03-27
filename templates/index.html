@@ -4,36 +4,66 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Flask App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/navbar.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-    <h1>Product Catalog</h1>
-    <form action="/" method="GET">
-        <input type="hidden" name="category" value="all">
-        <button type="submit">All</button>
-    </form>
-    <form action="/" method="GET">
-        <label for="category">Select a category:</label>
-        <select id="category" name="category">
-            <option value="tech">Tech Books</option>
-            <option value="romance">Romance Books</option>
-            <option value="psychology">Psychology Books</option>
-            <option value="horror">Horro Books</option>
-            <!-- Add more options for other categories as needed -->
-        </select>
-        <button type="submit">Filter</button>
-    </form>
-    <ul>
-        {% for item in data %}
-        <li>
-            <h2>{{ item.name }}</h2>
-            <div class="img-container">
-                <img src="{{ item.image_url }}" alt="{{ item.name }}">
-            </div>
-            <p>{{ item.description }}</p>
-            <p>Author: {{ item.author }}</p>
-        </li>
-        {% endfor %}
-    </ul>
+
+    <!-- Navbarr -->
+    <nav>
+        <ul class="navbar">
+          <ul class="nav-left">
+            <li class="active"><a href="#">Home</a></li>
+            <li class="hide main"><a href="#">Services</a></li>
+            <li class="hide main"><a href="#">Contact</a></li>
+            <li class="dropbtn hide main">
+                <span class="hide main">Products  <i class="fa fa-caret-down"></i></span>
+                <ul class="dropdown hide">
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul class="nav-right">
+            <li class="mobile-menu" onclick="mobMenu()"><a href="#">&#9776;</a></li>
+        </ul>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <h1>Product Catalog</h1>
+        <form action="/" method="GET">
+            <input type="hidden" name="category" value="all">
+            <button type="submit">All</button>
+        </form>
+        <form action="/" method="GET">
+            <label for="category">Select a category:</label>
+            <select id="category" name="category">
+                <option value="tech">Tech Books</option>
+                <option value="romance">Romance Books</option>
+                <option value="psychology">Psychology Books</option>
+                <option value="horror">Horro Books</option>
+                <!-- Add more options for other categories as needed -->
+            </select>
+            <button type="submit">Filter</button>
+        </form>
+        <ul>
+            {% for item in data %}
+            <li>
+                <h2>{{ item.name }}</h2>
+                <div class="img-container">
+                    <img src="{{ item.image_url }}" alt="{{ item.name }}">
+                </div>
+                <p>{{ item.description }}</p>
+                <p>Author: {{ item.author }}</p>
+            </li>
+            {% endfor %}
+        </ul>
+        <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 </body>
 </html>
