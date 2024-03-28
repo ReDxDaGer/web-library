@@ -1,68 +1,32 @@
 [
     {
-        "name": "Description of Product 1",
-        "description": "Description of Product 1 Description of Product 1 Description of Product 1",
-        "author": "Author 1",
-        "image_url": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "Pride and Prejudice",
+        "description": "Pride and Prejudice is a classic romance novel by Jane Austen, first published in 1813. It follows the story of Elizabeth Bennet as she navigates the societal expectations of marriage and love, particularly her relationship with the enigmatic Mr. Darcy.",
+        "author": "Jane Austen",
+        "image_url": "https://images.unsplash.com/photo-1529243856184-94e34981e13e?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "Outlander",
+        "description": "Outlander is a historical romance novel by Diana Gabaldon, first published in 1991. It follows the story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743 Scotland, where she falls in love with the dashing Jamie Fraser.",
+        "author": "Diana Gabaldon",
+        "image_url": "https://images.unsplash.com/photo-1552084167-b1d63f0e63c1?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "YAsh",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "The Notebook",
+        "description": "The Notebook is a romance novel by Nicholas Sparks, first published in 1996. It tells the story of Noah Calhoun and Allie Nelson, two young lovers separated by social class and circumstance, who reunite years later and confront the challenges of their past.",
+        "author": "Nicholas Sparks",
+        "image_url": "https://images.unsplash.com/photo-1595922490247-e10b6b03b4ba?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "Me Before You",
+        "description": "Me Before You is a romance novel by Jojo Moyes, first published in 2012. It follows the relationship between Louisa Clark, a quirky and caring young woman, and Will Traynor, a wealthy and adventurous man who becomes quadriplegic after a tragic accident.",
+        "author": "Jojo Moyes",
+        "image_url": "https://images.unsplash.com/photo-1516151596560-b3e8ee721a4a?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "The Time Traveler's Wife",
+        "description": "The Time Traveler's Wife is a romance novel by Audrey Niffenegger, first published in 2003. It tells the story of Henry DeTamble, a librarian with a genetic disorder that causes him to involuntarily time travel, and his wife Clare Abshire, who must cope with his sporadic disappearances.",
+        "author": "Audrey Niffenegger",
+        "image_url": "https://images.unsplash.com/photo-1525877741112-424a44a4d135?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
 ]

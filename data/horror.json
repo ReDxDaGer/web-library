@@ -1,68 +1,32 @@
 [
     {
-        "name": "Description of Product 1",
-        "description": "Description of Product 1 Description of Product 1 Description of Product 1",
-        "author": "Author 1",
-        "image_url": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "The Haunting of Hill House",
+        "description": "The Haunting of Hill House is a novel by American author Shirley Jackson, first published in 1959. It tells the story of Dr. John Montague, an investigator of the supernatural, who invites guests to stay at Hill House, hoping to document evidence of paranormal activity.",
+        "author": "Shirley Jackson",
+        "image_url": "https://images.unsplash.com/photo-1582582555014-bc19cb9df41e?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "IT",
+        "description": "IT is a horror novel by American author Stephen King, first published in 1986. The story follows the experiences of seven children as they are terrorized by an evil entity that exploits the fears and phobias of its victims, often taking the form of Pennywise the Dancing Clown.",
+        "author": "Stephen King",
+        "image_url": "https://images.unsplash.com/photo-1565798107868-94b9128b110b?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "YAsh",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "The Shining",
+        "description": "The Shining is a horror novel by American author Stephen King, first published in 1977. It follows Jack Torrance, an aspiring writer and recovering alcoholic, who accepts a job as the off-season caretaker of the historic Overlook Hotel in the Colorado Rockies, which becomes the setting for terrifying events.",
+        "author": "Stephen King",
+        "image_url": "https://images.unsplash.com/photo-1578412652295-b37d7bb07cc4?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "Dracula",
+        "description": "Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. It introduces the character of Count Dracula, who moves from Transylvania to England in order to spread the undead curse, and the battle between Dracula and a small group of people led by Professor Abraham Van Helsing.",
+        "author": "Bram Stoker",
+        "image_url": "https://images.unsplash.com/photo-1571981777877-172e4185d77f?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "Pet Sematary",
+        "description": "Pet Sematary is a horror novel by American author Stephen King, published in 1983. It tells the story of Louis Creed, who moves with his family to a rural town in Maine and discovers a mysterious burial ground hidden deep in the woods behind their new home, with sinister consequences.",
+        "author": "Stephen King",
+        "image_url": "https://images.unsplash.com/photo-1568883707946-92dfc20771cd?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
 ]

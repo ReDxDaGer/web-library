@@ -1,68 +1,32 @@
 [
     {
-        "name": "Description of Product 1",
-        "description": "Description of Product 1 Description of Product 1 Description of Product 1",
-        "author": "Author 1",
-        "image_url": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+        "description": "The Phoenix Project is a novel by Gene Kim, Kevin Behr, and George Spafford, first published in 2013. It follows the story of an IT manager, struggling to save his company's failing IT project, and introduces the principles of DevOps and how they can transform IT organizations.",
+        "author": "Gene Kim, Kevin Behr, George Spafford",
+        "image_url": "https://images.unsplash.com/photo-1516259762381-22954d7d3ad8?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "description": "Clean Code is a book by Robert C. Martin, first published in 2008. It offers practical advice on writing clean, maintainable, and efficient code by following best practices and principles of software craftsmanship.",
+        "author": "Robert C. Martin",
+        "image_url": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "YAsh",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+        "description": "Cracking the Coding Interview is a book by Gayle Laakmann McDowell, first published in 2008. It provides comprehensive preparation material for coding interviews at top tech companies, covering data structures, algorithms, and problem-solving techniques.",
+        "author": "Gayle Laakmann McDowell",
+        "image_url": "https://images.unsplash.com/photo-1553284967-0cb43a095d9f?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+        "description": "The Innovators is a book by Walter Isaacson, first published in 2014. It tells the story of the pioneers of the digital age, from Ada Lovelace and Alan Turing to Steve Jobs and Bill Gates, exploring the innovations and collaborations that shaped the modern world.",
+        "author": "Walter Isaacson",
+        "image_url": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d9?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
-    },
-    {
-        "name": "Product 2",
-        "description": "Description of Product 2",
-        "author": "Author 2",
-        "image_url": "https://example.com/image2.jpg"
+        "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "description": "Design Patterns is a book by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, also known as the Gang of Four (GoF), first published in 1994. It introduces software design patterns, reusable solutions to common design problems in object-oriented software development.",
+        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "image_url": "https://images.unsplash.com/photo-1533111364788-4f3d8fc9cb2f?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
 ]

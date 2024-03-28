@@ -1,74 +1,32 @@
 [
     {
-        "name":"Psychology",
-        "description":"Description of Product 1 Description of Product 1 Description of Product 1",
-        "author":"",
-        "image_url":"https://images-platform.99static.com//qcBXbQyf4IypYQagGOHvGuZ2BrU=/565x0:1870x1305/fit-in/590x590/99designs-contests-attachments/77/77297/attachment_77297447"
+        "name": "Thinking, Fast and Slow",
+        "description": "Thinking, Fast and Slow is a bestselling book by Nobel laureate Daniel Kahneman, first published in 2011. It explores the two systems that drive the way we think: the fast, intuitive 'System 1' and the slow, deliberate 'System 2', and how these systems shape our judgments and decisions.",
+        "author": "Daniel Kahneman",
+        "image_url": "https://images.unsplash.com/photo-1511578196481-6546a5dba4e9?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name":"Psychology",
-        "description":"Description of Product 1 Description of Product 1 Description of Product 1",
-        "author":"",
-        "image_url":"https://images-workbench.99static.com/EfLKr4hmlYjXRTxnX-6SptgImmA=/99designs-contests-attachments/111/111474/attachment_111474110"
+        "name": "Man's Search for Meaning",
+        "description": "Man's Search for Meaning is a book by Viktor Frankl, first published in 1946. It chronicles Frankl's experiences as a prisoner in Nazi concentration camps during World War II and explores his psychotherapeutic method, known as logotherapy, which focuses on finding meaning in life even in the most difficult circumstances.",
+        "author": "Viktor Frankl",
+        "image_url": "https://images.unsplash.com/photo-1552548295-207b1d6e81d1?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name":"Psychology",
-        "description":"Description of Product 1 Description of Product 1 Description of Product 1",
-        "author":"",
-        "image_url":"https://images.unsplash.com/photo-1621351183012-e2f9972dd9bf?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "The Power of Habit",
+        "description": "The Power of Habit is a book by Charles Duhigg, first published in 2012. It explores the science behind why habits exist and how they can be changed. Duhigg presents case studies and scientific findings to illustrate how understanding habits can transform individuals, organizations, and societies.",
+        "author": "Charles Duhigg",
+        "image_url": "https://images.unsplash.com/photo-1522389480858-d42be00bcacf?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name":"Psychology",
-        "description":"",
-        "author":"",
-        "image_url":"https://images.unsplash.com/photo-1529521818954-c76995518833?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "name": "Influence: The Psychology of Persuasion",
+        "description": "Influence: The Psychology of Persuasion is a book by Robert Cialdini, first published in 1984. It explores the psychology behind why people say 'yes' and how to apply these principles ethically in various contexts, including business, marketing, and everyday life.",
+        "author": "Robert Cialdini",
+        "image_url": "https://images.unsplash.com/photo-1518610923964-2c4a94f7b4f3?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-        "name":"Psychology",
-        "description":"Description of Product 1 Description of Product 1 Description of Product 1",
-        "author":"",
-        "image_url":""
-    },
-    {
-        "name":"Psychology",
-        "description":"Description of Product 1 Description of Product 1 Description of Product 1",
-        "author":"",
-        "image_url":""
-    },
-    {
-        "name":"Psychology",
-        "description":"Description of Product 1 Description of Product 1 Description of Product 1",
-        "author":"",
-        "image_url":""
-    },
-    {
-        "name":"Psychology",
-        "description":"Description of Product 1 Description of Product 1 Description of Product 1",
-        "author":"",
-        "image_url":""
-    },
-    {
-        "name":"Psychology",
-        "description":"",
-        "author":"",
-        "image_url":""
-    },
-    {
-        "name":"Psychology",
-        "description":"",
-        "author":"",
-        "image_url":""
-    },
-    {
-        "name":"Psychology",
-        "description":"",
-        "author":"",
-        "image_url":""
-    },
-    {
-        "name":"Psychology",
-        "description":"",
-        "author":"",
-        "image_url":""
+        "name": "Emotional Intelligence",
+        "description": "Emotional Intelligence is a book by Daniel Goleman, first published in 1995. It explores the role of emotional intelligence in personal and professional success, emphasizing the importance of self-awareness, self-regulation, empathy, and social skills.",
+        "author": "Daniel Goleman",
+        "image_url": "https://images.unsplash.com/photo-1528735602428-ff12779e5756?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
 ]
